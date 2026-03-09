@@ -1,1 +1,3 @@
 # eas510-git-practice
+
+My AI learning journey began sometime in 2025. I took a coursera course in AI Foundations and that's as far as it went until January 2026. I started my master of science program in engineering science with a focus in AI in late January. It's been a bit tough as I'd been out of school for quite a while before starting at UB. However, I've really enjoyed expanding my knowledge in the world of AI. I do need to work on my time management being in school full time and putting my heart into my work while simultaneously working part time and trying to be a reliable coworker and employee. Overall, I'm in the very early stages of my learning journey, but with my bachelor of science in computer information systems, I'm not starting from ground zero.
